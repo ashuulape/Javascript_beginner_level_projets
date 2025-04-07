@@ -1,0 +1,37 @@
+body{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(128, 128, 128);
+}
+h1{
+    color: rgb(19, 24, 24);
+}
+
+form{
+    background-color: antiquewhite;
+    text-align: center;
+    max-width: 350px;
+    margin: auto;
+    padding:25px;
+    border-radius: 10px;
+   
+}
+
+input ,label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+#btn{
+    font-weight: bold;
+    background-color: rgb(136, 136, 136);
+    color: white;
+}
+#result{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
